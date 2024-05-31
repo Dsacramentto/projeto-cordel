@@ -63,7 +63,7 @@ main p{
 .imagem{
     margin: 0;
     padding: 40px;
-    background: green url("/imagens/background001.jpg") center center no-repeat fixed;
+    background: green url("../imagens/background001.jpg") center center no-repeat fixed;
     background-size: cover;
     
 }
@@ -71,7 +71,7 @@ main p{
 .imagem2{
     margin: 0;
     padding: 40px;
-    background: green url("/imagens/background002.jpg") center center no-repeat fixed;
+    background: green url("../imagens/background002.jpg") center center no-repeat fixed;
     background-size: cover;
 }
 
